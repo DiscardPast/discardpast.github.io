@@ -8,6 +8,7 @@
     "react/jsx-no-comment-textnodes": 0,
     "react/prop-types": 0,
     "no-mixed-operators": 0,
-    "no-undef": 0
+    "no-undef": 0,
+	"linebreak-style": [0 ,"error", "windows"]
   }
 }
